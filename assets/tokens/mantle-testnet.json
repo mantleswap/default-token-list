@@ -1,0 +1,42 @@
+[
+  {
+    "name": "WBIT Token",
+    "symbol": "WBIT",
+    "address": "0xc0A7F1B0c9988FbC123f688a521387A51596da47",
+    "chainId": 5001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0xc0A7F1B0c9988FbC123f688a521387A51596da47/logo.png"
+  },
+  {
+    "name": "MantleSwap Token",
+    "symbol": "MANT",
+    "address": "0x1236dc14EFB42081d109037e60030c54da25B1F2",
+    "chainId": 5001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0x1236dc14EFB42081d109037e60030c54da25B1F2/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x6251B0B89A924e488A2C7a8F0DB48e1b612C9191",
+    "chainId": 5001,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0x6251B0B89A924e488A2C7a8F0DB48e1b612C9191/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x490b74BFc081d376e5159477063b3Ee6f47773Af",
+    "chainId": 5001,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0x490b74BFc081d376e5159477063b3Ee6f47773Af/logo.png"
+  },
+  {
+    "name": "DAI",
+    "symbol": "DAI",
+    "address": "0xa35d7f5dd89a336A427Ebb63C428C3068b6c3105",
+    "chainId": 5001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0xa35d7f5dd89a336A427Ebb63C428C3068b6c3105/logo.png"
+  }
+]
