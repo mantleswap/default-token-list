@@ -18,18 +18,18 @@
   {
     "name": "USD Coin",
     "symbol": "USDC",
-    "address": "0x6251B0B89A924e488A2C7a8F0DB48e1b612C9191",
+    "address": "0xbAF72402f98f16e77638Ce5FCC5689CD1627E8ff",
     "chainId": 5001,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0x6251B0B89A924e488A2C7a8F0DB48e1b612C9191/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0xbAF72402f98f16e77638Ce5FCC5689CD1627E8ff/logo.png"
   },
   {
     "name": "Tether USD",
     "symbol": "USDT",
-    "address": "0x490b74BFc081d376e5159477063b3Ee6f47773Af",
+    "address": "0x093790D873e87B45Cee9CA70B12056C705861ecD",
     "chainId": 5001,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0x490b74BFc081d376e5159477063b3Ee6f47773Af/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle-testnet/0x093790D873e87B45Cee9CA70B12056C705861ecD/logo.png"
   },
   {
     "name": "DAI",

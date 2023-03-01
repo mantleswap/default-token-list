@@ -1,7 +1,7 @@
 {
   "name": "@mantleswap/default-token-list",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "◦ The MantleSwap default token list",
   "main": "build/mantleswap-default.tokenlist.json",
   "scripts": {
