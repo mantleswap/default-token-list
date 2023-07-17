@@ -1,0 +1,42 @@
+[
+  {
+    "name": "WMNT Token",
+    "symbol": "WMNT",
+    "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png"
+  },
+  {
+    "name": "MantleSwap Token",
+    "symbol": "MANT",
+    "address": "0xdd0D6702f990191Ac3090F1A70986AAdd30Fe25f",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0xdd0D6702f990191Ac3090F1A70986AAdd30Fe25f/logo.png"
+  },
+  {
+    "name": "Ether",
+    "symbol": "WETH",
+    "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111/logo.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+    "chainId": 5000,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+    "chainId": 5000,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE/logo.png"
+  },
+]
