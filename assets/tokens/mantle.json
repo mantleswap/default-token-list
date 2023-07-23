@@ -32,6 +32,14 @@
     "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png"
   },
   {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+    "chainId": 5000,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE/logo.png"
+  },
+  {
     "name": "Tether USD",
     "symbol": "USDT",
     "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
@@ -39,4 +47,36 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE/logo.png"
   },
+  {
+    "name": "IONX",
+    "symbol": "IONX",
+    "address": "0x6968f3F16C3e64003F02E121cf0D5CCBf5625a42",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0x6968f3F16C3e64003F02E121cf0D5CCBf5625a42/logo.png"
+  },
+  {
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD",
+    "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32/logo.png"
+  },
+  {
+    "name": "PENDLE",
+    "symbol": "PENDLE",
+    "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729/logo.png"
+  },
+  {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "address": "0x636D4073738C071326Aa70c9e5DB7C334bEb87bE",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mantleswap/default-token-list/main/assets/tokens/mantle/0x636D4073738C071326Aa70c9e5DB7C334bEb87bE/logo.png"
+  }
 ]

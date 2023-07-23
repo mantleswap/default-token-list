@@ -1,5 +1,6 @@
 const { version } = require("../package.json");
 
+const mantle = require("../assets/tokens/mantle.json");
 const mantleTestnet = require("../assets/tokens/mantle-testnet.json");
 
 module.exports = function buildList() {
@@ -17,6 +18,7 @@ module.exports = function buildList() {
       "https://raw.githubusercontent.com/mantleswap/default-token-list/master/assets/logox200.png",
     keywords: ["MantleSwap", "default"],
     tokens: [
+      ...mantle,
       ...mantleTestnet,
     ]
       // sort them by symbol for easy readability
